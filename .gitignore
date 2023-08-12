@@ -1,0 +1,11 @@
+**__pycache__/
+
+# dataset
+cifar-10/
+
+# training logs
+images/
+logs/
+# model checkpoints
+checkpoints/
+
